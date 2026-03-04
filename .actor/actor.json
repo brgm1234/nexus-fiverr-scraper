@@ -1,0 +1,9 @@
+{
+  "actorSpecVersion": 1,
+  "name": "nexus-fiverr-scraper",
+  "title": "Fiverr Scraper",
+  "description": "Crawls fiverr.com gigs search, extracts title, sellerName, sellerLevel, price, rating, reviewCount, gigUrl",
+  "version": "1.0.0",
+  "buildTag": "latest",
+  "environmentVariables": [],
+}
